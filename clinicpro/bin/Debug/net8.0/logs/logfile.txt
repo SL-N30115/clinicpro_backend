@@ -1,0 +1,10 @@
+2024-02-21 16:37:30.5995 INFO LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:38:46.1231 INFO LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:39:43.2935 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:39:45.0639 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:39:45.6093 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:39:46.0262 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:39:46.5057 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:39:46.8783 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:39:47.2322 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.
+2024-02-21 16:40:37.5694 DEBUG LoggerService.LoggerManager GET request received for GetAllPatients.

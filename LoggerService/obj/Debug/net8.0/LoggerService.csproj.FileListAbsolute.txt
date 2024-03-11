@@ -1,0 +1,12 @@
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\bin\Debug\net8.0\LoggerService.dll
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\LoggerService.dll
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+E:\Projects\back-end\clinic_pro\clinicpro\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
